@@ -76,9 +76,14 @@ This project aims to:
 
 ---
 
+## 🎬 Demo Video
+https://www.linkedin.com/posts/vasuki27_datascience-deeplearning-stockprediction-activity-7315775758323310592-knVV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWofHABP5vZ1q4SVksdeQ_qxpl9ilnOKXM
+
 ## 👩‍💻 Developed By
 
 Name: VASUKI ARUL
+
 Batch Code: DS-C-WD-E-B29
-LinkedIn: vasuki27
+
+LinkedIn: https://www.linkedin.com/in/vasuki27/
 
